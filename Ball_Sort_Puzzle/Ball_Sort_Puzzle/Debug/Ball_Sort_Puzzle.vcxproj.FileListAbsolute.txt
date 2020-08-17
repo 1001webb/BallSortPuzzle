@@ -1,0 +1,2 @@
+D:\Personal\Ing. Sistemas\Programacion\Git\VIsual C++\BallSortPuzzle\Ball_Sort_Puzzle\Ball_Sort_Puzzle\Debug\Ball_Sort_Puzzle.exe
+D:\Personal\Ing. Sistemas\Programacion\Git\VIsual C++\BallSortPuzzle\Ball_Sort_Puzzle\Ball_Sort_Puzzle\Debug\Ball_Sort_Puzzle.pdb
