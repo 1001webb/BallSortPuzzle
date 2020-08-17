@@ -1,7 +1,13 @@
 #include "Tubo.h"
 
+Tubo::Tubo()
+{
+	Bola* pelota = NULL;
+	struct nodoBola* sig + NULL;
+}
 Tubo::DibujarTubo()
 {
+	
 
 }
 

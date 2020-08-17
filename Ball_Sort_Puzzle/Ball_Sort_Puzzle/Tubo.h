@@ -15,6 +15,7 @@ class Tubo {
 private:
 
 public:
+	Tubo();
 
 	void insertarBola(Bola *p);
 	void DibujarTubo();

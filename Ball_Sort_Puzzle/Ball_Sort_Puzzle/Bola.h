@@ -9,6 +9,7 @@ class Bola
 {	
 	private:
 	int color;
+	Vector2i coordenadas;
 
 	//SFML Atribbutes
 	Texture* txtb;
@@ -16,7 +17,7 @@ class Bola
 
 	public:
 
-	Bola(int c);
+	Bola(int c), Vector2i c;
 
 	//SFML Metodos
 	Sprite Dibujar();
