@@ -10,15 +10,13 @@ typedef struct nodoBola {
 	struct nodoBola* sig;
 }nodoBola;
 
-nodoBola* primero = NULL;
 
 class Tubo {
 private:
 
 public:
 
-	void insertarBola();
-
+	void insertarBola(Bola *p);
 	void DibujarTubo();
 
 };

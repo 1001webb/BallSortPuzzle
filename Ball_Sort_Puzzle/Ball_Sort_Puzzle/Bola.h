@@ -2,12 +2,8 @@
 #include "SFML\Graphics.hpp"
 
 
-
-using namespace std;
-
-//Bola.h
-
 using namesppace sf;
+using namespace std;
 
 class Bola
 {	
@@ -19,8 +15,8 @@ class Bola
 	Sprite* bola;
 
 	public:
+
 	Bola(int c);
-	insertarPelota();
 
 	//SFML Metodos
 	Sprite Dibujar();
